@@ -12,6 +12,6 @@ In this case, I focused on naming a few groups and some of my favorite members i
 These is the Database, the 5 Collections, the 5 tables with 5 fields each one:
 </p>
 <p>
-![A 1](https://user-images.githubusercontent.com/73078734/171450608-c49f5e5b-d39e-4972-83ec-cf0b748b86e7.png)
+![A 1](https://user-images.githubusercontent.com/73078734/171450849-04e4d1ce-1b0a-42b3-b152-2e3a76856110.png)
 </p>
 
