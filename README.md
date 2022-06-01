@@ -1,8 +1,16 @@
 # assignment1
 
+<h4>1.</h4>
 <p>
-Honestly, I wanted to choose the theme of superheroes because I've liked them since I was a child. With the vast popularity of this genre in various media such as cinema, television, video games and comics, it is really very easy to enter this microverse, which was previously called niche.
+Honestly, I wanted to choose the theme of some superhero groups because I've liked them since I was a kid. With the vast popularity of this genre in various media such as cinema, television, video games and comics, it is really very easy to enter this microverse, which was previously called niche.
 </p>
 <p>
-In this case, I concentrated on naming a few characteristics of some of my favorite Marvel heroes. It's not that I despise DC, just that I appreciate the heroes of the "House of Ideas" more.
+In this case, I focused on naming a few groups and some of my favorite members in those groups from Marvel and DC comic book publishers.
+</p>
+<h4>2.</h4>
+<p>
+These is the Database, the 5 Collections, the 5 tables with 5 fields each one:
+</p>
+<p>
+picture
 </p>
